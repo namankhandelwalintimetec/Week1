@@ -18,7 +18,8 @@ body{
     border-radius: 35px;
     
 }
-.Icon{
+
+.icon{
     width: 4%;
     height:75%
 }
@@ -103,7 +104,6 @@ a.active {
 
 .center{
     background-color: rgb(7, 7, 7);
-    
 }
 
 .paragraph
