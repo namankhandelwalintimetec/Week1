@@ -1,0 +1,204 @@
+body{ 
+    margin: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header
+{
+    background-color: black;
+    margin: 0px;
+}
+
+.nav {
+    display: flex;
+    height: 80px;
+    font-size: large;
+    border-bottom-style: dotted;
+    border-color: white;
+    border-radius: 35px;
+    
+}
+
+.icon{
+    width: 4%;
+    height:75%
+}
+
+.image-contain {
+    width: 40px;
+    height: 40px;
+    margin-top: 1%;
+    margin-left: 4%
+}
+
+.container {
+    list-style-type: none;
+    padding: 0;
+    display: flex; 
+    margin-left: 30%;
+}
+
+.log{
+    color: white;  
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 25%;
+    margin-top: 1%;
+    width: 70px;
+    height: 40px;
+    font-weight: bolder;
+}
+
+.conatiner-head{
+    display: flex;
+    width: 65%;
+    margin: auto;
+    margin-top: 10px;
+    height: 300px;
+    background-color: rgb(7, 7, 7);
+    border-radius: 10px;
+}
+
+.learn-button{
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    font-size: 85%; 
+    margin-top: 3%;
+    width: 100px;
+    height: 50px;
+}
+
+.side-image{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 3%;
+}
+
+.main
+{
+    width: 90%;
+    margin: auto;
+    height: 500px;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    margin: 10px;
+}
+
+a.active {
+    color: red;
+}
+
+#image {
+    height: 10px;
+    width: 10px;
+}
+
+.center{
+    background-color: rgb(7, 7, 7);
+}
+
+.paragraph
+{
+    color: red;
+    background-color: rgb(7, 7, 7);
+}
+
+.color{
+    color: white;
+}
+
+.small-img{
+    height: 20px;
+    width: 20px;
+    margin: 2px;
+}
+
+.option{
+    display: flex;
+}
+
+
+.image-contain{
+    height: 400px;
+    margin-top: 50px;
+    margin-right: 10px;
+    width: 70%;
+    background-image: url("Images/book.jpg");
+    background-size: cover;
+    opacity: 0.7;
+}
+
+.color-head{
+    color: rgb(255, 255, 255);
+    
+}
+
+.flex-container{
+    display: flex;
+    background-color: rgb(187, 202, 202);
+    margin: 10px;
+}
+
+.card{
+    height: 189px;
+    width: 200px;
+    background-color: rgb(100, 150, 133);
+    margin-top: 10px;
+    text-align:center;
+}
+
+.color-white
+{
+    background-color: #649685;
+}
+
+.card-color
+{
+    color: black;
+    background-color: white;
+}
+
+.inner-card
+{
+    width: 310px;
+    height:170px ;
+    margin-left: 10px;
+    background-color: white;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    text-align: justify;
+}
+
+.final-but{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.final-but:hover{
+    background-color: #649685;
+}
+
+.right_div
+{
+    margin-top: 10px;
+    background-color: rgb(187, 202, 202);
+    height: 600px;
+}
+
+.left-div{
+    background-color: rgb(85, 80, 80);
+    opacity: 0.9;
+    text-align: center;
+    
+}
